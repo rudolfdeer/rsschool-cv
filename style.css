@@ -76,7 +76,7 @@ img {
 .heading {
   display: flex;
   height: 180px;
-  border: 1px solid black;
+  border-bottom: 1px solid black;
   font-family: "Amatic SC", cursive;
 }
 
@@ -93,11 +93,6 @@ p {
   color: #8b0000;
 }
 
-.contacts:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
-}
-
 .contacts a {
   color: #8b0000;
 }
@@ -107,11 +102,6 @@ p {
   text-align: center;
   font-size: 18px;
   margin-top: 7px;
-}
-
-.links:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
 }
 
 h3 {
@@ -133,8 +123,8 @@ a {
   margin-right: 20px;
 }
 
-.linkedin:hover {
-  transform: scale(1.1);
+main {
+  border: 1px solid black;
 }
 
 .github {
@@ -142,18 +132,9 @@ a {
   width: auto;
 }
 
-.github:hover {
-  transform: scale(1.1);
-}
-
 .education {
   margin-top: 10px;
   text-align: center;
-}
-
-.education:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
 }
 
 ul p {
@@ -170,19 +151,9 @@ li {
   margin-top: 10px;
 }
 
-.courses:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
-}
-
 .skills {
   text-align: center;
   margin-top: 10px;
-}
-
-.skills:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
 }
 
 .languages {
@@ -190,25 +161,8 @@ li {
   margin-top: 10px;
 }
 
-.languages:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
-}
-
 .about p {
   font-size: 25px;
-}
-.about:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 10px black;
-}
-
-.tel:hover {
-  text-shadow: 0.5px 0.5px 1px #8b0000;
-}
-
-.mail:hover {
-  text-shadow: 0.5px 0.5px 1px #8b0000;
 }
 
 .about p {
@@ -218,5 +172,20 @@ li {
 }
 
 .about {
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+}
+
+footer {
+  margin-top: 6px;
+  height: 20px;
+  font-family: "Amatic SC", cursive;
+  display: flex;
+}
+
+.footer-author {
+  color: black;
+  font-size: 15px;
+  margin: auto;
 }

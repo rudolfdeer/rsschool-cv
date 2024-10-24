@@ -33,4 +33,6 @@
 * Dutch - elementary
 * Russian - native
 
+### About me
 
+Frontend developer with technical education. I work with React and Typescript.

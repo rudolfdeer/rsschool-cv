@@ -8,14 +8,14 @@
 ### Education
 
   - **Belarusian National Technical University, 2013-2018**
-   *civil engineering*
+  *Civil engineering*
   - **The Rolling Scopes School, 2020-2021**
-  *front-end, javascript*
+  *Front-end, Javascript*
 
 ### Experience
 
-- iTechArt Group *Belarus/Poland* **2021-2023**
-- freelance *Belarus* **2020-2021**
+- **iTechArt Group** *Belarus/Poland* 2021-2023
+- **Freelance** *Belarus* 2020-2021
 
 ### Skills
 

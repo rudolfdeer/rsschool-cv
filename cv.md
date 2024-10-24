@@ -20,11 +20,14 @@
 ### Skills
 
 * HTML5
-* CSS
+* CS3
+* SCSS, Sass, Less
 * JavaScript
 * Typescript
 * React
 * Redux
+* GraphQL, RESTful APIs
+
 
 ### Languages
 
